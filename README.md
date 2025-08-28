@@ -1,17 +1,24 @@
-# SCT_SD_2
-it's a simple game where the computer generates a random number, and the user tries to guess it with feedback after each guess.
-# 🎮 Guess the Number Game
+# 🎲 Guess the Number Game  
 
-A simple Python terminal game where you try to guess a number between 1 and 100!
+## 📌 Overview  
+This is a simple **Python-based guessing game** where the computer randomly selects a number, and the player has to guess it within limited attempts.  
+The program provides hints whether the guess is **too high** or **too low** until the correct number is guessed.  
 
-## 📦 Features
+## 🚀 Features  
+- Random number generation  
+- User input and validation  
+- Hints for every wrong guess  
+- Winning/losing messages  
 
-- Random number generation
-- User-friendly input and feedback
-- Replay option
-- Input validation
+## 🛠️ Tech Stack  
+- **Python 3**  
 
-## ▶️ How to Run
+## 📂 Files in this Repository  
+- `guess_number.py` → Main Python game script  
+- `README.md` → Project documentation  
 
-```bash
-python guess_the_number.py
+## ▶️ How to Run the Project  
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Krish-cpt/guess-the-number.git
+   cd guess-the-number
